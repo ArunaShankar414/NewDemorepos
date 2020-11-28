@@ -8,7 +8,7 @@ conn_parameter= {
     "host"   : "localhost",
     "database" : "Demodb",
     "user"   : "Aruna",
-    "password" : "muthu"
+    "password" : "XXXXXXXXXXXXXXX"
 }
    #Load  data from  the file
 csv_file = "/home/kit/Documents/pandas2postgresql/data/global-temp-monthly.csv"
